@@ -4,6 +4,7 @@
 module Demo where
 
 import Project
+import Reporting
 
 someProject::Project
 someProject = ProjectGroup "Philippines" [naga, mandaluyong, cavite] where
